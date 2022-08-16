@@ -44,7 +44,7 @@ const newWithdrawAmount = parseFloat(newWithdrawAmountString)
 
     
 //step-2 add withdraw into totalWithdraw
-const totalOfWithsdrawFeild =  document.querySelector("#total-withdraw");
+const totalOfWithsdrawFeild =  document.querySelector("#total-withrawd");
 const totalOfWithsdrawString = totalOfWithsdrawFeild.innerText;
 const totalOfWithsdraw = parseFloat(totalOfWithsdrawString);
 
